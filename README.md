@@ -69,11 +69,8 @@ A configuração sugerida segue o esquema ilustrado na Figura 1 do enunciado da 
 💂️ Estrutura do Repositório
 
 ```
-├── controle_pwm.c       # Código principal do projeto
+├── PDW.c                # Código principal do projeto
 ├── README.md            # Este arquivo
-├── pwm_config.h         # Configurações do PWM
-├── pwm_control.c        # Implementação das funções PWM
-├── pwm_control.h        # Cabeçalho com declarações de funções
 └── ...                  # Demais arquivos necessários
 ```
 
